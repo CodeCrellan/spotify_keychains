@@ -42,4 +42,5 @@ The generated STL file will be in the `finished_models/` folder.
 
 ## Credits
 
-Developed by [Your Name or Username].
+Developed by CodeCrellan.
+Based in code of sDesigns from MakerWorld
